@@ -17,6 +17,7 @@ public class prime_number{
                 sum=sum+i;
             }
         }
+        
         System.out.println(sum);
     }
 }
